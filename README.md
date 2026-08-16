@@ -10,19 +10,19 @@ The application processes mutual fund transaction data from Excel and converts i
 
 ### Portfolio Overview
 
-![Portfolio Overview](assets/overview.png)
+![Portfolio Overview](Assets/overview.png)
 
 ### Holdings
 
-![Holdings](assets/holdings.png)
+![Holdings](Assets/holdings.png)
 
 ### Performance
 
-![Performance](assets/performance.png)
+![Performance](Assets/performance.png)
 
 ### Fund Health
 
-![Fund Health](assets/fund_health.png)
+![Fund Health](Assets/fund_health.png)
 
 ---
 
